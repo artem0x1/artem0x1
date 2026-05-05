@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmkwMXdnMnh1ODFwejNzbTU0YXVzenBwdWZ5am9qNW03bmU0dWljayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYGrnetl1ty84IH1rQ/giphy.gif" width="420" alt="coding gif"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmkwMXdnMnh1ODFwejNzbTU0YXVzenBwdWZ5am9qNW03bmU0dWljayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYGrnetl1ty84IH1rQ/giphy.gif" width="280" alt="Ryan Gosling gif"/>
 
 # Привет, я Даниленко Артём 👋
 
